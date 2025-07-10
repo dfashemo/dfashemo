@@ -7,7 +7,7 @@
 
 - 👩🏾‍💻 All of my projects are available at [https://dfashemo.github.io/templates/projects.html](https://dfashemo.github.io/templates/projects.html)
 
-- 📫 How to reach me **dfashemo@seas.upenn.edu**
+- 📫 How to reach me: **dfashemo@seas.upenn.edu**
 
 - 📄 You can find my resume here! [https://dfashemo.github.io/](https://dfashemo.github.io/)
 
