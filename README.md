@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dfashemo@seas.upenn.edu**
 
-- 📄 You can find my resume here! [chrome-extension://cefhlgghdlbobdpihfdadojifnpghbji/https://dfashemo.github.io/Obademilade%20(Demi)%20Fashemo%20--%20Resume.pdf](chrome-extension://cefhlgghdlbobdpihfdadojifnpghbji/https://dfashemo.github.io/Obademilade%20(Demi)%20Fashemo%20--%20Resume.pdf)
+- 📄 You can find my resume here! [https://dfashemo.github.io/](https://dfashemo.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
