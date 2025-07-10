@@ -1,4 +1,4 @@
-<h1 align="center">Hi 💁🏾‍♀️, I'm Demi Fashemo</h1>
+<h1 align="center">Hi, I'm Demi Fashemo! 💁🏾‍♀️ </h1>
 <h3 align="center">An Engineering Student at the University of Pennsylvania!</h3>
 
 - 🔭 I’m currently **an SEO Tech Developer Intern**
