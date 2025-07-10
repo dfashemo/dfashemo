@@ -5,7 +5,7 @@
 
 - ✏️ I’m currently learning **how to use the Figma design platform!**
 
-- 👩🏾‍💻 All of my projects are available at [https://dfashemo.github.io/](https://dfashemo.github.io/)
+- 👩🏾‍💻 All of my projects are available at [https://dfashemo.github.io/templates/projects.html](https://dfashemo.github.io/templates/projects.html)
 
 - 📫 How to reach me **dfashemo@seas.upenn.edu**
 
