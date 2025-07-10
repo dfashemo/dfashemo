@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Demi Fashemo! 💁🏾‍♀️ </h1>
-<h3 align="center">An Engineering Student at the University of Pennsylvania!</h3>
+<h3 align="center">A Networked and Social Systems Engineering (NETS) Student at the University of Pennsylvania</h3>
 
 - 🔭 I’m currently **an SEO Tech Developer Intern**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dfashemo@seas.upenn.edu**
 
-- 📄 You can find my resume here! [https://dfashemo.github.io/](https://dfashemo.github.io/)
+- 📄 You can find my resume here! [chrome-extension://cefhlgghdlbobdpihfdadojifnpghbji/https://dfashemo.github.io/Obademilade%20(Demi)%20Fashemo%20--%20Resume.pdf](chrome-extension://cefhlgghdlbobdpihfdadojifnpghbji/https://dfashemo.github.io/Obademilade%20(Demi)%20Fashemo%20--%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
